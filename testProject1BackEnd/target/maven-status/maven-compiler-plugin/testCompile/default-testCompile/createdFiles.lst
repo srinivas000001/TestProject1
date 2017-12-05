@@ -1,0 +1,10 @@
+com\niit\testProject1BackEnd\testcases\UserDAOTestCase.class
+com\niit\testProject1BackEnd\testcases\UserTest.class
+com\niit\testProject1BackEnd\testcases\AddressDAOTestCase.class
+com\niit\testProject1BackEnd\testcases\CategoryDAOTestCase.class
+com\niit\testProject1BackEnd\AppTest.class
+com\niit\testProject1BackEnd\testcases\OrderTableDAOTestCase.class
+com\niit\testProject1BackEnd\testcases\ProductDAOTestCase.class
+com\niit\testProject1BackEnd\testcases\My_CartDAOTestCase.class
+com\niit\testProject1BackEnd\testcases\ContactDAOTestCase.class
+com\niit\testProject1BackEnd\testcases\SupplierDAOTestCase.class
