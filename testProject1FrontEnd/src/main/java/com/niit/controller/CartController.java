@@ -17,6 +17,7 @@ import org.springframework.web.servlet.ModelAndView;
 import com.niit.testProject1BackEnd.dao.My_CartDAO;
 import com.niit.testProject1BackEnd.dao.ProductDAO;
 import com.niit.testProject1BackEnd.model.My_Cart;
+import com.niit.testProject1BackEnd.model.Product;
 
 
 @Controller

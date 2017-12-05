@@ -11,14 +11,15 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.servlet.ModelAndView;
 
-import com.niit.shoppingcart.dao.CategoryDAO;
-import com.niit.shoppingcart.dao.ProductDAO;
-import com.niit.shoppingcart.dao.SupplierDAO;
-import com.niit.shoppingcart.dao.UserDAO;
-import com.niit.shoppingcart.domain.Category;
-import com.niit.shoppingcart.domain.Product;
-import com.niit.shoppingcart.domain.Supplier;
-import com.niit.shoppingcart.domain.User;
+import com.niit.testProject1BackEnd.dao.CategoryDAO;
+import com.niit.testProject1BackEnd.dao.ProductDAO;
+import com.niit.testProject1BackEnd.dao.SupplierDAO;
+import com.niit.testProject1BackEnd.dao.UserDAO;
+import com.niit.testProject1BackEnd.model.Category;
+import com.niit.testProject1BackEnd.model.Product;
+import com.niit.testProject1BackEnd.model.Supplier;
+import com.niit.testProject1BackEnd.model.User;
+
 
 @Controller
 public class UserController {

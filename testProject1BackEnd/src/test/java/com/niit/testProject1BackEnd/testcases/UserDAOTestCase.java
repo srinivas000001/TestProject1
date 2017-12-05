@@ -26,7 +26,7 @@ public class UserDAOTestCase {
 	@BeforeClass
 	public static void initialize() {
 		context = new AnnotationConfigApplicationContext();
-		context.scan("com.niit");
+		context.scan("com.niit.testProject1BackEnd");
 		context.refresh();
 
 		userDAO = (UserDAO) context.getBean("userDAO");

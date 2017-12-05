@@ -13,8 +13,9 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.servlet.ModelAndView;
 
-import com.niit.shoppingcart.dao.ContactDAO;
-import com.niit.shoppingcart.domain.Contact;
+import com.niit.testProject1BackEnd.dao.ContactDAO;
+import com.niit.testProject1BackEnd.model.Contact;
+
 
 @Controller
 public class ContactUsController {
